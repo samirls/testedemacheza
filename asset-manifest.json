@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testedemacheza/static/css/main.c1b0b0ba.css",
+    "main.js": "/testedemacheza/static/js/main.82b83b77.js",
+    "index.html": "/testedemacheza/index.html",
+    "main.c1b0b0ba.css.map": "/testedemacheza/static/css/main.c1b0b0ba.css.map",
+    "main.82b83b77.js.map": "/testedemacheza/static/js/main.82b83b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b0b0ba.css",
+    "static/js/main.82b83b77.js"
+  ]
+}
